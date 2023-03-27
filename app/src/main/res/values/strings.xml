@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BabbelChallenge</string>
+    <string name="correct_word">Correct</string>
+    <string name="wrong_word">Wrong</string>
+    <string name="your_score">Your Score:</string>
+    <string name="current_word">Current word is\n</string>
+    <string name="score">Score:\n</string>
+    <string name="restart">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="correct_answer">The Right Answer is\n</string>
+    <string name="this_was_correct">That Was the Right Translation</string>
+    <string name="timeout_loose">You have been thinking too long :)</string>
+</resources>
